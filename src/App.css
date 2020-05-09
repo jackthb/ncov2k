@@ -1,11 +1,9 @@
 .App {
   text-align: center;
+  background-color: rgba(230, 211, 255, 0.1);
 }
 
 .title {
-  border-radius: 5px;
-  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.9);
-  width: 80%;
   margin: auto;
   background-color: rgba(230, 211, 255, 0.5);
 }
